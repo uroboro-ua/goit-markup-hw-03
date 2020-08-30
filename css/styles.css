@@ -192,6 +192,10 @@ body{
 .grid-works-item:nth-child(3n){
     margin-right: 0;
 }
+.works-img{
+    width: 370px;
+    height: 294px;
+}
 .works-item{
     mix-blend-mode: normal;
 }
@@ -212,6 +216,10 @@ body{
     box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
     border-radius: 0px 0px 4px 4px;
     background-color: var(--white-color);
+}
+.team-img{
+    width: 270px;
+    height: 260px;
 }
 .card-fullname{     
     font-size: 16px;
@@ -292,6 +300,10 @@ body{
 .project-description-text{
     font-size: 16px;
     color: var(--grey-text-color);
+}
+.project-img{
+    width: 370px;
+    height: 294px;
 }
 /*--------------------------------------------------------*/
 
